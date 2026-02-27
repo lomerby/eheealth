@@ -1,0 +1,28 @@
+{
+  "name": "mlbb-drafting-simulator",
+  "version": "1.0.0",
+  "description": "A game drafting simulator for Mobile Legends: Bang Bang",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "mlbb",
+    "mobile-legends",
+    "drafting",
+    "simulator",
+    "game",
+    "moba"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

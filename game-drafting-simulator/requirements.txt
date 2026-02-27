@@ -1,0 +1,6 @@
+# MLBB Drafting Simulator Dependencies
+# This project currently uses only Python standard library
+# Add external packages here as needed, for example:
+# requests==2.31.0  # For API calls
+# fastapi==0.104.1  # For web interface
+# pytest==7.4.3     # For testing
